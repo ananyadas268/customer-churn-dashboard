@@ -28,7 +28,7 @@ Deployment: Streamlit Cloud
 
 🚀 How to Run Locally
 
-git clone https://github.com/your-username/customer-churn-dashboard.git
+git clone https://github.com/ananyadas268/customer-churn-dashboard.git
 cd customer-churn-dashboard
 pip install -r requirements.txt
 streamlit run app.py
